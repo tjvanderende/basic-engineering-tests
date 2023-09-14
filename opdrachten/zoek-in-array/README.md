@@ -15,7 +15,7 @@ function findClosestValues(array: int[], needle: int, number: int): int[] {
 De functie moet een array teruggeven met lengte van `number` met de getallen die het dichtst bij `needle` liggen.
 De `array` is een gesorteerde lijst van getalen van laag naar hoog.
 
-Deze opdracht graag uplaoden naar github.com zodat we je code kunnen bekijken.
+Deze opdracht graag uploaden naar github.com zodat we je code kunnen bekijken.
 
 ## Voorbeelden
 
