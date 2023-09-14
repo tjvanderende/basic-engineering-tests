@@ -24,14 +24,13 @@ array = [1, 2, 4, 4, 6, 7];
 needle = 3;
 number = 4;
 
-result: `[1, 2, 4, 4]`;
+result: [1, 2, 4, 4];
 ```
 
 ```javascript
-`array` = `[-3, -3, -2, 0, 1, 1, 3, 7, 7]`
-needle = 5
-number = 3
+array = [-3, -3, -2, 0, 1, 1, 3, 7, 7];
+needle = 5;
+number = 3;
 
-result:
-`[3, 7, 7]`
+result: [3, 7, 7];
 ```
