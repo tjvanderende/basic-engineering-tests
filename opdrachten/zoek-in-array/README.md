@@ -3,7 +3,7 @@
 In deze opdracht moet je een functie maken met de volgende signature.
 
 ```javascript
-function findClosestValue(array: int[], needle: int, number: int): int[] {
+function findClosestValues(array: int[], needle: int, number: int): int[] {
     //...
 }
 ```
